@@ -6,9 +6,10 @@
   "engines" : {
     "node" : ">=0.12.0"
   },
+  "type": "commonjs",
   "devDependencies": {
     "istanbul": "*",
-    "chai": "*",
+    "chai": "4",
     "mocha": "*",
     "docco": "*",
     "bunyan": "*"
